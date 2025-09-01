@@ -1,5 +1,3 @@
-from pyexpat.errors import messages
-
 import telebot
 from telebot import types
 import requests

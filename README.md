@@ -46,7 +46,7 @@ A straightforward and multilingual Telegram bot that provides real-time weather 
 4. Run the bot:
 
    ```bash
-   python bot.py
+   main.py
    ```
 
 ---
